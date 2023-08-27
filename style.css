@@ -5,7 +5,6 @@ body {
     background-color: rgb(39, 39, 39);
     text-align: center;
     margin: 20px auto;
-    overflow: hidden;
 }
 
 h1{
@@ -37,3 +36,7 @@ p {
         font-family: 'Helvetica', sans-serif; 
         border-radius: 50px;
         }
+
+::webkit-scrollbar{
+ display: none;
+}
