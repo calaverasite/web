@@ -6,12 +6,12 @@ body {
 
 }
 
-.navbar {
+.navba {
     background-color: #333; 
     overflow: hidden;
 }
 
-.navbar a {
+.navba a {
     float: right; 
     display: block;
     color: white;
@@ -36,8 +36,15 @@ p {
     text-align: center;
 }
 
-img {
-width: 750px;   
-margin-left: 300px;
-margin-top: 4px;
+.imagen-centrada {
+    position: relative;
+    min-height: 90vh;
+}
+
+.imagen-centrada img {
+    width: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
