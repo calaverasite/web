@@ -9,6 +9,9 @@ body {
 .navba {
     background-color: #333; 
     overflow: hidden;
+    
+        position: relative;
+        z-index: 9999;
 }
 
 .navba a {
