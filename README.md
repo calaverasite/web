@@ -1,5 +1,5 @@
 pagina web hecha 100% html y css
 
-  by dawhitoo
+    by dawhitoo
 
-    © dawhitoo 2023. Todos los derechos reservados.
+        © dawhitoo 2023. Todos los derechos reservados.
